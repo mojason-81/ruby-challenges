@@ -19,3 +19,4 @@ puts "And you don't have to loop through anything."
 puts "I'll admit, I had to look at the solution to figure out the loop,"
 puts "but I figured this way out on my own."
 puts
+puts
