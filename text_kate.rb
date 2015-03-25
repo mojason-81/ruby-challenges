@@ -9,7 +9,7 @@ auth_token = '60bfe65e2dbbd5100aaf372d2586d3e8'
 message = @client.account.messages.create(
 	:from => '8168443341',
 	:to => '8165727832',
-	:body => "don't bother replying"
+	:body => "you need a shower"
 )
 
 puts message.to
