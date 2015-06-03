@@ -1,0 +1,12 @@
+use first letter
+swap last two letters
+move first letter to end
+repeat
+
+
+cat
+cta
+atc
+act
+tca
+tac

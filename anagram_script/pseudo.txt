@@ -1,0 +1,10 @@
+get words in english language and store to array
+get user input and store to variable
+get length of user input and store to variable
+get max letter value and store to variable
+get words in eng. lang. with same length as user input and store to array
+get all words in second array that start with a letter in user input and store to array individual arrays based on first letter
+create array of all possible combos of letters in user input and store to array
+for each entry in combo array check first letter and search appropriate array to see if that combo is in that array
+    if that combo is present, append to an array for storing matches
+return output array
