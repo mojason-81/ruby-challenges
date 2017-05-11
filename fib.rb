@@ -29,6 +29,6 @@ module Fibber
       count += 1
     end
     puts next_val
-    "The weird algorithm from Hackerank comes to: #{next_val % (10**8 + 7)}"
+    # puts "The weird algorithm from Hackerank comes to: #{next_val % (10**8 + 7)}"
   end
 end
